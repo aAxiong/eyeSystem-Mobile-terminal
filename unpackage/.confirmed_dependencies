@@ -1,0 +1,168 @@
+{
+  "container.html": {
+    "resources": [
+      "css/common.css",
+      "js/lib/light7.min.js",
+      "js/lib/com.js",
+      "js/lib/jquery-2.1.4.js"
+    ],
+    "refer": [
+      "index.html"
+    ]
+  },
+  "index.html": {
+    "resources": [
+      "font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "css/common.css",
+      "js/lib/com.js",
+      "css/lib/light7.min.css",
+      "js/common.js",
+      "js/lib/common.js",
+      "js/lib/mui.js",
+      "js/lib/jquery-2.1.4.js",
+      "img/radius@3x.png",
+      "js/lib/light7-swiper.min.js",
+      "js/lib/socket.io-1.2.0.js",
+      "css/lib/light7-swiper.min.css",
+      "js/lib/light7.min.js",
+      "img/active/s1.png",
+      "img/none.png",
+      "css/lib/light7-swipeout.css",
+      "img/upE.png",
+      "img/yesa.png",
+      "img/leftE.png",
+      "js/lib/light7-swipeout.js",
+      "img/rightE.png",
+      "css/lib/mui.min.css",
+      "img/active/r.png",
+      "js/lib/light7-city-picker.min.js",
+      "img/yunUp.png",
+      "img/yunDowm.png",
+      "scan.html",
+      "img/downE.png",
+      "img/Default-568h@2x.png",
+      "img/A-E.png",
+      "img/active/r1.png",
+      "img/W-E.png",
+      "img/D-E.png"
+    ],
+    "refer": [
+      "container.html",
+      "main.html",
+      "submit.html",
+      "barcode_scan.html",
+      "vision/index.html"
+    ]
+  },
+  "A.html": {
+    "resources": [
+      "js/lib/common.js"
+    ],
+    "refer": []
+  },
+  "main.html": {
+    "resources": [
+      "img/radius@3x.png",
+      "js/lib/light7-swiper.min.js",
+      "js/lib/socket.io-1.2.0.js",
+      "css/lib/light7-swiper.min.css",
+      "js/lib/light7.min.js",
+      "img/active/s1.png",
+      "css/lib/light7-swipeout.css",
+      "img/none.png",
+      "img/upE.png",
+      "img/yesa.png",
+      "img/leftE.png",
+      "js/common.js",
+      "js/lib/light7-swipeout.js",
+      "img/rightE.png",
+      "css/lib/mui.min.css",
+      "img/active/r.png",
+      "js/lib/light7-city-picker.min.js",
+      "img/yunUp.png",
+      "img/yunDowm.png",
+      "js/lib/jquery-2.1.4.js",
+      "js/lib/com.js",
+      "font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "css/lib/light7.min.css",
+      "css/common.css"
+    ],
+    "refer": []
+  },
+  "scan.html": {
+    "resources": [
+      "js/lib/mui.js",
+      "font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "css/common.css",
+      "js/lib/com.js",
+      "css/lib/light7.min.css"
+    ],
+    "refer": []
+  },
+  "submit.html": {
+    "resources": [
+      "font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "css/common.css",
+      "css/lib/light7-swiper.min.css",
+      "css/lib/mui.min.css",
+      "js/lib/com.js",
+      "css/lib/light7-swipeout.css",
+      "css/lib/light7.min.css"
+    ],
+    "refer": []
+  },
+  "barcode_scan.html": {
+    "resources": [
+      "font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "css/common.css",
+      "js/lib/com.js",
+      "css/lib/light7.min.css"
+    ],
+    "refer": []
+  },
+  "vision/index.html": {
+    "resources": [
+      "vision/img/none.png",
+      "vision/css/lib/light7-swiper.min.css",
+      "vision/js/lib/socket.io-1.2.0.js",
+      "vision/js/lib/light7.min.js",
+      "vision/css/lib/light7.min.css",
+      "vision/img/yunUp.png",
+      "vision/img/Default-568h@2x.png",
+      "vision/js/lib/light7-swiper.min.js",
+      "vision/img/active/r.png",
+      "vision/css/lib/light7-swipeout.css",
+      "vision/img/rightE.png",
+      "vision/css/common.css",
+      "vision/js/lib/com.js",
+      "vision/js/lib/jquery-2.1.4.js",
+      "vision/img/yesa.png",
+      "vision/js/lib/light7-city-picker.min.js",
+      "vision/img/upE.png",
+      "vision/js/common.js",
+      "vision/js/lib/light7-swipeout.js",
+      "vision/img/yunDowm.png",
+      "vision/img/leftE.png",
+      "vision/img/active/s1.png"
+    ],
+    "refer": [
+      "vision/barcode_scan.html",
+      "vision/submit.html"
+    ]
+  },
+  "vision/barcode_scan.html": {
+    "resources": [
+      "vision/font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF"
+    ],
+    "refer": []
+  },
+  "vision/submit.html": {
+    "resources": [
+      "vision/css/common.css",
+      "vision/js/lib/com.js",
+      "vision/font/MFLANGQIAN_NONCOMMERCIAL-LIGHT.OTF",
+      "vision/css/lib/light7.min.css"
+    ],
+    "refer": []
+  }
+}
