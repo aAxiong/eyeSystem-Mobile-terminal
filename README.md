@@ -1,1 +1,5 @@
-# eyeSystem-Mobile-terminal
+视力筛查系统 移动端
+==== 
+
+手机操作 电脑同步
+
